@@ -27,3 +27,5 @@ El código está dividido en cuatro bloques:
 ## Uso y Resultados
 
 Al ejecutar el script en Python, el sistema procesará los casos de prueba definidos en el código y mostrará el cálculo de la satisfacción final para cada escenario de prueba propuesto.
+
+Live url para probarlo de forma interáctiva: https://fuzzy-logic-app.streamlit.app/
